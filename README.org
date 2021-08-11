@@ -8,3 +8,4 @@ My fork of st - simple terminal from suckless.org
   - xresources
   - alpha
   - clipboard
+  - scrollback
