@@ -5,4 +5,4 @@
 My fork of st - simple terminal from suckless.org
 
 * patches
-  - 
+  - xresources
