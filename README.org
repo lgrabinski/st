@@ -10,3 +10,4 @@ My fork of st - simple terminal from suckless.org
   - clipboard
   - scrollback
   - externalpipe
+  - anysize
