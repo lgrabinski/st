@@ -11,3 +11,4 @@ My fork of st - simple terminal from suckless.org
   - scrollback
   - externalpipe
   - anysize
+  - rightclickpaste
